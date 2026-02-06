@@ -1,0 +1,53 @@
+# עמית — Generative Engine Optimization Map
+
+> A שיווק דיגיטלי ופרסום business.
+
+---
+
+## Pages
+
+### Home
+https://-39696c2d.zappy5.app
+
+### Services
+https://-39696c2d.zappy5.app/services
+
+### Work
+https://-39696c2d.zappy5.app/work
+
+### Contact
+https://-39696c2d.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-39696c2d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-39696c2d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-39696c2d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About עמית
+עמית is a business in the שיווק דיגיטלי ופרסום industry.
+
+## Target Audience
+עסקים שמפעילים קמפיינים ממומנים ורוצים להגדיל המרות
+
+## Industry
+שיווק דיגיטלי ופרסום
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-39696c2d.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-39696c2d.zappy5.app/robots.txt
